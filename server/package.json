@@ -1,0 +1,16 @@
+{
+  "name": "reactgraphqlproj",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Bruno",
+  "dependencies": {
+    "apollo-datasource": "^0.7.2",
+    "apollo-datasource-rest": "^0.9.3",
+    "apollo-server": "^2.16.1",
+    "graphql": "^15.3.0",
+    "isemail": "^3.2.0",
+    "sequelize": "^6.3.4",
+    "sqlite3": "^5.0.0"
+  }
+}
